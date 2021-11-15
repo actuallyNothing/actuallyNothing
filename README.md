@@ -3,5 +3,5 @@
 I'm a beginner scripter, primarily focused on Garry's Mod addons and TTT, any help and comments are welcome. I'm currently working on:
 * [Chatlog](https://github.com/actuallyNothing/chatlog/) (TTT)
 
-**Discord:** actuallyNothing#5620
+**Discord:** actuallyNothing#0001
 **Steam:** [actuallyNothing](https://steamcommunity.com/id/actuallyNothing)
