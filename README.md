@@ -4,5 +4,5 @@ I'm a beginner scripter, primarily focused on Garry's Mod addons and TTT, any he
 * [Chatlog](https://github.com/actuallyNothing/chatlog/) (TTT)
 * [Chatping](https://github.com/actuallyNothing/chatping/)
 
-**Discord:** actuallyNothing#0001
+**Discord:** actuallyNothing#0458
 **Steam:** [actuallyNothing](https://steamcommunity.com/id/actuallyNothing)
