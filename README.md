@@ -13,5 +13,5 @@ My text editors:
 * <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-plain.svg" width=16> Vim
 * <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width=16> Visual Studio Code
 
-**Discord:** actuallyNothing#0458
+**Discord:** actuallyNothing#0001
 **Steam:** [actuallyNothing](https://steamcommunity.com/id/actuallyNothing)
