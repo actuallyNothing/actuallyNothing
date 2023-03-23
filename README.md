@@ -1,6 +1,6 @@
 <img align="right" src="https://emoji.gg/assets/emoji/5139-dog-smile.png"/>
 
-I'm an 18 year old programmer from Argentina, currently pursuing a Software Development career in Universidad del Chubut and developing my skills in:
+I'm a 19 year old programmer from Argentina, currently pursuing a Software Development career in Universidad del Chubut and developing my skills in:
 * <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width=16> JavaScript
 * <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" width=16> HTML
 * <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" width=16> CSS
