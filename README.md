@@ -14,4 +14,4 @@ My text editors:
 * <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width=16> Visual Studio Code
 
 **Discord:** @velrmilion
-**Steam:** [actuallyNothing](https://steamcommunity.com/id/velrmilion)
+**Steam:** [velrmilion](https://steamcommunity.com/id/velrmilion)
